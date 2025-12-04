@@ -88,12 +88,10 @@ ninja.data = [{
             },},{id: "news-dung-started-studying-at-hanoi-university-of-science-and-technology-his-major-was-electronics-engineering",
           title: 'Dung started studying at Hanoi University of Science and Technology. His major was...',
           description: "",
-          section: "News",},{id: "news-2",
-          title: '2',
+          section: "News",},{id: "news-dung-started-his-first-internship-at-viettel-high-tech-contributed-to-the-its-project-at-vht-specializing-in-the-development-of-logic-for-media-filters-and-traffic-statistics-on-qualcomm-hardware-utilized-java-programming-language-to-design-and-implement-these-functionalities-ensuring-seamless-integration-with-the-qualcomm-platform",
+          title: '** Dung started his first internship at Viettel High Tech. Contributed to the...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2/";
-            },},{id: "news-dung-beginned-research-assistant-on-wifi-csi-data-for-human-pose-estimation-at-vinuni-illinois-smart-health-center-vishc-vinuniversity-supervisor-assistant-prof-nguyen-van-dinh",
+          section: "News",},{id: "news-dung-beginned-research-assistant-on-wifi-csi-data-for-human-pose-estimation-at-vinuni-illinois-smart-health-center-vishc-vinuniversity-supervisor-assistant-prof-nguyen-van-dinh",
           title: 'Dung beginned Research Assistant on WiFi CSI Data for Human Pose Estimation at...',
           description: "",
           section: "News",},{id: "news-dung-had-a-first-author-paper-semise-semi-supervised-learning-for-severity-representation-in-medical-image-accepted-at-the-2025-ieee-22nd-international-symposium-on-biomedical-imaging-isbi",
