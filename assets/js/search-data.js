@@ -85,16 +85,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-dung-started-studying-at-hanoi-university-of-science-and-technology-his-major-was-electronics-engineering",
+          title: 'Dung started studying at Hanoi University of Science and Technology. His major was...',
+          description: "",
+          section: "News",},{id: "news-2",
+          title: '2',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/2/";
+            },},{id: "news-dung-beginned-research-assistant-on-wifi-csi-data-for-human-pose-estimation-at-vinuni-illinois-smart-health-center-vishc-vinuniversity-supervisor-assistant-prof-nguyen-van-dinh",
+          title: 'Dung beginned Research Assistant on WiFi CSI Data for Human Pose Estimation at...',
           description: "",
-          section: "News",},{id: "news-dung-started-studying-at-hanoi-university-of-science-and-technology-his-major-was-electronics-engineering",
-          title: 'Dung started studying at Hanoi University of Science and Technology. His major was...',
+          section: "News",},{id: "news-dung-had-a-first-author-paper-semise-semi-supervised-learning-for-severity-representation-in-medical-image-accepted-at-the-2025-ieee-22nd-international-symposium-on-biomedical-imaging-isbi",
+          title: 'Dung had a first-author paper “Semise: Semi-supervised learning for severity representation in medical...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
