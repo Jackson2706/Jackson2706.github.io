@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I’m currently a Research Assistant at the College of Engineering and Computer Science, VinUniversity, where I have the privilege of working on Multi-modal Learning and Trustworthy AI under the mentorship of [Assist. Prof. Nguyen Van Dinh](https://www.tcd.ie/scss/people/academic-staff/nguyenva/) and [Assoc. Prof. Kok-Seng Wong](https://vinuni.edu.vn/vi/people/pho-giao-su-kok-seng-wong/). Previously, I gained industry experience optimizing AI for resource-constrained hardware as an AI Engineer at Viettel High Tech.
+Greetings! I’m currently a Research Assistant at the College of Engineering and Computer Science, VinUniversity, where I have the privilege of working on Multi-modal Learning and Trustworthy AI under the mentorship of <a href="https://www.tcd.ie/scss/people/academic-staff/nguyenva/">Assist. Prof. Nguyen Van Dinh</a> and <a href="https://vinuni.edu.vn/vi/people/pho-giao-su-kok-seng-wong/">Assoc. Prof. Kok-Seng Wong</a>. Previously, I gained industry experience optimizing AI for resource-constrained hardware as an AI Engineer at Viettel High Tech.
 
 Prior to that, I received my B.Eng. degree in Electronics and Telecommunications from Hanoi University of Science and Technology (HUST) in 2025. I graduated with an ``Excellent" classification (CPA 3.6/4.0), where my strong foundation in Signal Processing sparked my transition into Machine Learning research.
 
