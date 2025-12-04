@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Center for Environmental Intelligence</a>. VinUniversity, Vietnam
+subtitle: <a href='https://cei.vinuni.edu.vn/vi/trang-chu/'>Center for Environmental Intelligence</a>. VinUniversity, Vietnam
 
 profile:
   align: right
