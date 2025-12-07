@@ -57,123 +57,131 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Advanced Research & Solutions Vietnam - ARS Vietnam",
+      "location": "Hanoi, Vietnam",
+      "position": "AI Trainee",
+      "url": "https://www.arsvietnam.com/",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "summary": "Participating in the ”AI Application Technology and Business” course sponsored 100% by the Japanese government, with ARS Vietnam responsible for training."
+    },
+    {
+      "organization": "SoICT - Hanoi University of Science and Technology ",
+      "location": "Hanoi, Vietnam",
+      "position": "Teaching Assistant",
+      "url": "https://soict.hust.edu.vn/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-05-01",
+      "highlights":[
+        "Preparing exercises for C & Python programming practice classes",
+        "Giving tutorials to students at practice classes"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Hanoi University of Science and Technology",
+      "location": "Hanoi, Vietnam",
+      "url": "https://hust.edu.vn/",
+      "area": "Electronics and Telecommunications",
+      "studyType": "Bachelor",
+      "startDate": "2020-08-01",
+      "endDate": "2024-08-01",
+      "score": "3.6/4.0"
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "awards": [ ],
+  "certificates":[],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Multi-Modal Human Pose Estimation: A Wi-Fi-Driven Approach with Adaptive Kernel Selection",
+      "publisher": "IEEE Transactions on Artificial Intelligence",
+      "releaseDate": "2025-11-01",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/TAI.2025.3631005",
+      "summary": "Co-first author. Published in Vol. 1, No. 01. Proposed a Wi-Fi-driven approach for human pose estimation using adaptive kernel selection.",
+      "authors": [
+        "Toan D. Gian*",
+        "Dung T. Tran*",
+        "Quoc-Viet Pham",
+        "Le-Nam Tran",
+        "Van-Dinh Nguyen"
+      ]
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "SEMISE: Semi-Supervised Learning for Severity Representation in Medical Image",
+      "publisher": "2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1109/ISBI60581.2025.10980996",
+      "summary": "Focuses on Severity Representation, Contrastive Learning, and Semi-Supervised Learning in Biomedical Imaging.",
+      "authors": [
+        "Dung T. Tran",
+        "Hung Vu",
+        "Anh Tran",
+        "Tuan Hoang",
+        "Hieu Pham",
+        "Hong Nguyen",
+        "Nam-Phong Nguyen"
+      ]
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+      "name": "Adaptive Rainfall Forecasting from Multiple Geographical Models Using Matrix Profile and Ensemble Learning",
+      "publisher": "14th International Symposium on Information and Communication Technology (SoICT 2025)",
+      "releaseDate": "2025-09-01",
+      "url": "https://arxiv.org/abs/2509.08277",
+      "summary": "Accepted for publication. Archive Prefix: arXiv:2509.08277 [cs.LG]",
+      "authors": [
+        "Dung T. Tran",
+        "Huyen Ngoc Huyen",
+        "Hong Nguyen",
+        "Xuan-Vu Phan",
+        "Nam-Phong Nguyen"
+      ]
+    },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "VRAE: Vertical Residual Autoencoder for License Plate Denoising and Deblurring",
+      "publisher": "14th International Symposium on Information and Communication Technology (SoICT 2025)",
+      "releaseDate": "2025-09-01",
+      "url": "https://arxiv.org/abs/2509.08392",
+      "summary": "Accepted for publication. Archive Prefix: arXiv:2509.08392 [cs.CV]",
+      "authors": [
+        "Cuong Nguyen",
+        "Dung T. Tran",
+        "Hong Nguyen",
+        "Xuan-Vu Phan",
+        "Nam-Phong Nguyen"
+      ]
+    },
+    {
+      "name": "SHeRL-FL: When Representation Learning Meets Split Learning in Hierarchical Federated Learning",
+      "publisher": "arXiv Preprint",
+      "releaseDate": "2025-08-01",
+      "url": "https://arxiv.org/abs/2508.08339",
+      "summary": "Preprint exploring the intersection of Representation Learning and Split Learning within a Federated framework.",
+      "authors": [
+        "Dung T. Tran",
+        "Nguyen B. Ha",
+        "Van-Dinh Nguyen",
+        "Kok-Seng Wong"
+      ]
+    },
+    {
+      "name": "MOOSE: Pay Attention to Temporal Dynamics for Video Understanding via Optical Flows",
+      "publisher": "arXiv Preprint",
+      "releaseDate": "2025-06-01",
+      "url": "https://arxiv.org/abs/2506.01119",
+      "summary": "Preprint on video understanding using optical flows and temporal dynamics.",
+      "authors": [
+        "Hong Nguyen",
+        "Dung T. Tran",
+        "Hieu Hoang",
+        "Phong Nguyen",
+        "Shrikanth Narayanan"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -183,20 +191,7 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [
     {
       "name": "Professor John Doe",
