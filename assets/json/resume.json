@@ -24,7 +24,27 @@
   },
   "work": [
     {
-      
+      "name": "Center for Environmental Intelligence (CEI), VinUniversity, Vietnam",
+      "position": "Research Assistant",
+      "url": "https://cei.vinuni.edu.vn/vi/trang-chu/",
+      "startDate": "2025-02-01",
+      "endDate": "Present",
+      "summary": "Full-time Research Assistant for the project 'Green Serverless Computing for Resource-Efficient AI Training' at the Center for Environmental Intelligence, VinUniversity (Supervisor: Associate Prof. Kok Seng Wong).\nMy research focus is Federated Learning on Serverless Computing Platform",
+      "highlights": ["Research skills", "Python", "Pytorch", "Communication"]
+    },
+    {
+      "name": "College of Engineering & Computer Science (CECS), VinUniversity, Vietnam",
+      "position": "Teaching Assistant",
+      "url": "https://cecs.vinuni.edu.vn/",
+      "startDate": "2025-02-01",
+      "endDate": "Present",
+      "summary": "1. Spring 2025 semester:\n   - Teaching Assistant for the 'Signal and Information' Course (Lecturer: Associate Prof. Nidal Kamel)\n2. Fall 2025 semester:\n   - Teaching Assistant for the 'Introduction to Programming' Course (Lecturer: Associate Prof. Kok-Seng Wong)\n   - Teaching Assistant for the 'Digital Communication System Design' Course (Lecturer: Associate Prof. Nidal Kamel)",
+      "highlights": [
+        "Assistant Teaching",
+        "MATLAB",
+        "Signal Processing",
+        "Python"
+      ]
     },
     {
       "name": "VinUni-Illinois Smart Health Center (VISHC), VinUniversity, Vietnam",
