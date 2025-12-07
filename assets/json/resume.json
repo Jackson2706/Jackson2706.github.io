@@ -84,7 +84,7 @@
       "location": "Hanoi, Vietnam",
       "url": "https://hust.edu.vn/",
       "area": "Electronics and Telecommunications",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2020-08-01",
       "endDate": "2024-08-01",
       "score": "3.6/4.0"
@@ -194,24 +194,29 @@
   "interests": [],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Associate Professor Kok-Seng Wong",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Computer Science program, College of Engineering and Computer Science, VinUniversity, Hanoi, Vietnam"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Assistant Professor Van-Dinh Nguyen",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Assistant Professor in Networks and Distributed Systems with the School of Computer Science and Statistics, Trinity College Dublin, Ireland"
+    },
+    {
+      "name": "Assistant Professor Nam-Phong Nguyen",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Assistant Professor in Department of Communication Engineering, School of Electrical and Electronic Engineering, Hanoi University of Science and Technology, Hanoi, Vietnam"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "AI Camera for traffic in Vietnam",
+      "summary": "Developed an AI-powered camera system to monitor and analyze traffic conditions in Vietnam and employed computer vision techniques and deep learning models to detect vehicles and assess traffic flow, contributing to smart city initiatives.",
+      "highlights": ["Computer Vision", "Edge Computing", "TensorRT", "ONNX", "Python"],
+      "startDate": "2023-01-01",
+      "endDate": "2024-04-30",
+      "url": "https://github.com/Jackson2706/Final_project_Jackson"
     }
   ]
 }
