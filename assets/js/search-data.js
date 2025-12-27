@@ -112,8 +112,8 @@ ninja.data = [{
           section: "News",},{id: "news-news-two-papers-accepted-at-soict-2025-️-rainfall-forecasting-adaptive-rainfall-forecasting-from-multiple-geographical-models-using-matrix-profile-and-ensemble-learning-image-restoration-vrae-vertical-residual-autoencoder-for-license-plate-denoising-and-deblurring",
           title: '[News] Two Papers Accepted at SoICT 2025 🚀 🌧️ Rainfall Forecasting: Adaptive Rainfall...',
           description: "",
-          section: "News",},{id: "news-dung-had-a-co-first-author-paper-tinysense-effective-csi-compression-for-scalable-and-accurate-wi-fi-sensing-accepted-atproceedings-of-the-2026-ieee-international-conference-on-pervasive-computing-and-communications-percom-2026",
-          title: 'Dung had a co-first author paper “{TinySense}: Effective {CSI} Compression for Scalable and...',
+          section: "News",},{id: "news-dung-had-a-co-first-author-paper-tinysense-effective-csi-compression-for-scalable-and-accurate-wi-fi-sensing-accepted-at-proceedings-of-the-2026-ieee-international-conference-on-pervasive-computing-and-communications-percom-2026",
+          title: 'Dung had a co-first author paper “TinySense: Effective CSI Compression for Scalable and...',
           description: "",
           section: "News",},{
         id: 'social-cv',
