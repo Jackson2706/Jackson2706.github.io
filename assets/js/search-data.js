@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "A collection of courses and practical labs I have taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -114,6 +114,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-dung-had-a-co-first-author-paper-tinysense-effective-csi-compression-for-scalable-and-accurate-wi-fi-sensing-accepted-at-proceedings-of-the-2026-ieee-international-conference-on-pervasive-computing-and-communications-percom-2026",
           title: 'Dung had a co-first author paper “TinySense: Effective CSI Compression for Scalable and...',
+          description: "",
+          section: "News",},{id: "news-news-two-papers-accepted-at-ieee-icce-2026-️-rainfall-forecasting-mp-moe-matrix-profile-guided-mixture-of-experts-for-precipitation-forecasting-video-understanding-cake-real-time-action-detection-via-motion-distillation-and-background-aware-contrastive-learning-https-arxiv-org-abs-2603-23988",
+          title: '[News] Two Papers Accepted at IEEE ICCE 2026 🚀 🌧️ Rainfall Forecasting: MP-MoE:...',
+          description: "",
+          section: "News",},{id: "news-news-awarded-the-koica-hanyang-next-fellowship-new-chapter-i-am-incredibly-honored-to-receive-the-fully-funded-koica-next-fellowship-to-pursue-a-master-of-science-in-ai-digital-convergence-at-hanyang-university-erica-campus-research-journey-i-will-be-joining-the-department-of-robotics-working-under-the-supervision-of-professor-jang-bum-jin-excited-for-the-new-academic-journey-ahead",
+          title: '[News] Awarded the KOICA-Hanyang NEXT Fellowship! 🎓 🇰🇷 New Chapter: I am incredibly...',
           description: "",
           section: "News",},{
         id: 'social-cv',
