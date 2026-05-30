@@ -80,6 +80,15 @@
   ],
   "education": [
     {
+      "institution": "Hanyang University ERICA",
+      "location": "Ansan, South Korea",
+      "url": "https://erica.hanyang.ac.kr/",
+      "area": "AI Digital Convergence",
+      "studyType": "Master of Science",
+      "startDate": "2026-09-01",
+      "endDate": "2028-08-31"
+    },
+    {
       "institution": "Hanoi University of Science and Technology",
       "location": "Hanoi, Vietnam",
       "url": "https://hust.edu.vn/",
