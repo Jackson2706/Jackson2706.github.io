@@ -121,6 +121,9 @@ ninja.data = [{
           section: "News",},{id: "news-news-awarded-the-koica-hanyang-next-fellowship-new-chapter-i-am-incredibly-honored-to-receive-the-fully-funded-koica-next-fellowship-to-pursue-a-master-of-science-in-ai-digital-convergence-at-hanyang-university-erica-campus-research-journey-i-will-be-joining-the-department-of-robotics-working-under-the-supervision-of-professor-jang-bum-jin-excited-for-the-new-academic-journey-ahead",
           title: '[News] Awarded the KOICA-Hanyang NEXT Fellowship! 🎓 🇰🇷 New Chapter: I am incredibly...',
           description: "",
+          section: "News",},{id: "news-news-paper-accepted-to-eccv-2026-new-publication-i-am-thrilled-to-announce-that-our-paper-h-sfp-hierarchical-federated-learning-with-decoupled-split-model-prototyping-has-been-provisionally-accepted-to-eccv-2026-team-effort-a-massive-thank-you-to-all-the-brilliant-professors-postdocs-and-my-amazing-co-authors-this-milestone-would-not-have-been-possible-without-your-expert-mentorship-technical-insights-and-continuous-support-throughout-the-research-process",
+          title: '[News] Paper Accepted to ECCV 2026! 🎉 📄 New Publication: I am thrilled...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
