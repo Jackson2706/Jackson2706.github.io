@@ -2,36 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cei.vinuni.edu.vn/vi/trang-chu/'>Center for Environmental Intelligence</a>. VinUniversity, Vietnam
+subtitle: <a href="https://brl.hanyang.ac.kr/">Biomimetic Robotics Lab</a> · Hanyang University ERICA, South Korea
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>CEI, Floor 2, D Building</p>
-    <p>VinUniversity, Hanoi, Vietnam</p>
+    <p>Biomimetic Robotics Lab (BRL)</p>
+    <p>Hanyang University ERICA</p>
+    <p>Ansan, South Korea</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit:
 
 latest_posts:
-  enabled: False
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Greetings! I’m currently a master’s student at Hanyang University ERICA and a member of the <a href="https://brl.hanyang.ac.kr/">Biomimetic Robotics Lab (BRL)</a>, supported by the KOICA–Hanyang NEXT Fellowship. My research focuses on Reinforcement Learning and Robotics, with a particular interest in autonomous navigation and underwater robots.
+Greetings! I’m currently a **master’s student in Robotics at Hanyang University ERICA** and a member of the <a href="https://brl.hanyang.ac.kr/">Biomimetic Robotics Lab (BRL)</a>, supported by the KOICA–Hanyang NEXT Fellowship. My research interests center on **Reinforcement Learning and Robotics**, particularly autonomous navigation and underwater robotic systems. I also serve as AI Leader at AiThings.
 
-Previously, I worked as a Research Assistant at the Center for Environmental Intelligence, VinUniversity, conducting research on Multi-modal Learning and Trustworthy AI under the mentorship of <a href="https://www.tcd.ie/scss/people/academic-staff/nguyenva/">Assist. Prof. Nguyen Van Dinh</a> and <a href="https://vinuni.edu.vn/vi/people/pho-giao-su-kok-seng-wong/">Assoc. Prof. Kok-Seng Wong</a>. I also gained industry experience as an AI Engineer at Viettel High Tech, optimizing AI models for resource-constrained hardware.
+My current research direction explores how robots can learn from visual and sensor observations to perceive their surroundings and make effective decisions. I am particularly interested in **reinforcement learning for navigation, 3D mapping, and obstacle avoidance**, with an emphasis on deploying learned policies on resource-constrained robotic platforms and bridging the gap between simulation and the real world.
 
-I received my B.Eng. degree in Electronics and Telecommunications from Hanoi University of Science and Technology (HUST) in 2025, graduating with an “Excellent” classification (CPA 3.6/4.0). My foundation in signal processing sparked my transition into machine learning and continues to shape my approach to robotic perception and learning from sensor data.
+Previously, I worked as a Research Assistant at the <a href="https://cei.vinuni.edu.vn/vi/trang-chu/">Center for Environmental Intelligence, VinUniversity</a>, conducting research on Multi-modal Learning and Trustworthy AI under the mentorship of <a href="https://www.tcd.ie/scss/people/academic-staff/nguyenva/">Assist. Prof. Nguyen Van Dinh</a> and <a href="https://vinuni.edu.vn/vi/people/pho-giao-su-kok-seng-wong/">Assoc. Prof. Kok-Seng Wong</a>. I also served as a Teaching Assistant at VinUniversity and gained industry experience as an AI Engineer at Viettel High Tech, optimizing AI models for resource-constrained hardware. My previous research in Computer Vision, WiFi-based sensing, and Federated Learning provides a foundation for my current work in robotic perception and learning.
 
-Building on my previous work in Computer Vision, WiFi-based sensing, and Federated Learning, I am now exploring how robots can learn to perceive and interact with the physical world. My current interests include reinforcement learning for navigation and decision-making, 3D mapping for underwater environments, and the deployment of learned policies on resource-constrained robotic platforms.
+I received my B.Eng. in Electronics and Telecommunications from Hanoi University of Science and Technology (HUST) in 2025, graduating with an “Excellent” classification (CPA 3.6/4.0). My background in signal processing sparked my transition into machine learning and continues to shape my approach to learning from visual and sensor data.
 
-I’m interested in research collaborations and future Ph.D. opportunities in Reinforcement Learning and Robotics, particularly robot learning, autonomous navigation, and sim-to-real transfer.
+I welcome **research collaborations and future Ph.D. opportunities in Reinforcement Learning and Robotics**, particularly in robot learning, autonomous navigation, and sim-to-real transfer.
