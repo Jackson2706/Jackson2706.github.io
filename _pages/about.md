@@ -26,10 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Greetings! I’m currently a Research Assistant at the Center for Environmental Intelligence, VinUniversity, where I have the privilege of working on Multi-modal Learning and Trustworthy AI under the mentorship of <a href="https://www.tcd.ie/scss/people/academic-staff/nguyenva/">Assist. Prof. Nguyen Van Dinh</a> and <a href="https://vinuni.edu.vn/vi/people/pho-giao-su-kok-seng-wong/">Assoc. Prof. Kok-Seng Wong</a>. Previously, I gained industry experience optimizing AI for resource-constrained hardware as an AI Engineer at Viettel High Tech.
+Greetings! I’m currently a master’s student at Hanyang University ERICA and a member of the <a href="https://brl.hanyang.ac.kr/">Biomimetic Robotics Lab (BRL)</a>, supported by the KOICA–Hanyang NEXT Fellowship. My research focuses on Reinforcement Learning and Robotics, with a particular interest in autonomous navigation and underwater robots.
 
-Prior to that, I received my B.Eng. degree in Electronics and Telecommunications from Hanoi University of Science and Technology (HUST) in 2025. I graduated with an "Excellent" classification (CPA 3.6/4.0), where my strong foundation in Signal Processing sparked my transition into Machine Learning research.
+Previously, I worked as a Research Assistant at the Center for Environmental Intelligence, VinUniversity, conducting research on Multi-modal Learning and Trustworthy AI under the mentorship of <a href="https://www.tcd.ie/scss/people/academic-staff/nguyenva/">Assist. Prof. Nguyen Van Dinh</a> and <a href="https://vinuni.edu.vn/vi/people/pho-giao-su-kok-seng-wong/">Assoc. Prof. Kok-Seng Wong</a>. I also gained industry experience as an AI Engineer at Viettel High Tech, optimizing AI models for resource-constrained hardware.
 
-My recent research focuses on bridging the gap between theoretical efficiency and real-world deployment. My work spans Computer Vision (video understanding, image restoration), Multi-modal Learning (WiFi-based sensing), and Trustworthy AI (Federated Learning, privacy preservation). I am particularly interested in how we can make deep learning models not only more accurate but also more data-efficient and robust in decentralized environments.
+I received my B.Eng. degree in Electronics and Telecommunications from Hanoi University of Science and Technology (HUST) in 2025, graduating with an “Excellent” classification (CPA 3.6/4.0). My foundation in signal processing sparked my transition into machine learning and continues to shape my approach to robotic perception and learning from sensor data.
 
-I’m actively seeking Ph.D. opportunities in Computer Science/Machine Learning, with a strong interest in the research areas mentioned above.
+Building on my previous work in Computer Vision, WiFi-based sensing, and Federated Learning, I am now exploring how robots can learn to perceive and interact with the physical world. My current interests include reinforcement learning for navigation and decision-making, 3D mapping for underwater environments, and the deployment of learned policies on resource-constrained robotic platforms.
+
+I’m interested in research collaborations and future Ph.D. opportunities in Reinforcement Learning and Robotics, particularly robot learning, autonomous navigation, and sim-to-real transfer.
