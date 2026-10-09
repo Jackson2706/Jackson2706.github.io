@@ -1,3 +1,26 @@
+@InProceedings{10.1007/978-3-032-37189-8_18,
+author="Tran, Dung T.
+and Ha, Nguyen B.
+and Nguyen, Minh-Duong
+and Nguyen, Van-Dinh
+and Wong, Kok-Seng",
+editor="Favaro, Paolo
+and Kukelova, Zuzana
+and Maki, Atsuto
+and Rohrbach, Anna
+and Schindler, Konrad
+and Tombari, Federico",
+title="H-SFP: Hierarchical Federated Learning with Decoupled Split-Model Prototyping",
+booktitle="Computer Vision -- ECCV 2026",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="304--322",
+abstract="Federated learning (FL) enables collaborative model training without sharing raw data, but practical deployments must balance statistical heterogeneity, resource-constrained clients, and communication efficiency. While conventional FL requires clients to train full models locally, split federated learning (SFL) reduces client-side computation by partitioning models across tiers, at the cost of transmitting high-dimensional activations and gradients during training. We propose Hierarchical Split-Federated Prototyping (H-SFP), a communication-efficient framework for hierarchical cloud-edge-client environments. Instead of exchanging sample-level activations or gradients, H-SFP communicates compact class-wise feature statistics and uses them to synthesize representative feature distributions at upper tiers. This statistical prototyping mechanism enables independent training of model segments while preserving the computational advantages of split-model execution and substantially reducing synchronization and communication overhead. A key finding of this work is that lightweight first- and second-order feature statistics are sufficient to support hierarchical split-model training, providing an effective communication interface without requiring sample-level feature exchange. We analyze the communication properties and stability of the proposed statistical interface under hierarchical aggregation. Extensive experiments on CIFAR-10/100, HAM10000, ImageNet-1K, and ISIC-2018 demonstrate that H-SFP remains robust under heterogeneous data distributions while reducing communication overhead by up to two orders of magnitude compared with federated and split-learning baselines.",
+isbn="978-3-032-37189-8"
+}
+
+
 @inproceedings{Gian2026TinySense,
   author    = {Gian*, Toan D. and Tran*, Dung T. and Pham, Viet Quoc and Restuccia, Francesco and Nguyen, Van Dinh},
   title     = {{TinySense}: Effective {CSI} Compression for Scalable and Accurate {Wi-Fi} Sensing},
